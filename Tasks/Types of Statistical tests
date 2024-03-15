@@ -1,0 +1,39 @@
+T-Test:
+
+Example: A t-test can be used to determine whether there is a significant difference between the mean scores of two groups. 
+For instance, it could be used to compare the mean exam scores of students who received tutoring versus those who did not.
+
+ANOVA (Analysis of Variance):
+
+Example: ANOVA can be employed to test for differences in means among three or more groups. 
+For example, it could be used to compare the average income levels of individuals across different education levels (e.g., high school diploma, bachelor's degree, master's degree).
+
+Chi-Square Test:
+
+Example: Chi-square tests are often used to examine the association between categorical variables. 
+For instance, it could be used to determine whether there is a significant relationship between gender (male/female) and voting preference (Republican/Democrat/Independent).
+
+Correlation Analysis:
+
+Example: Correlation analysis is used to measure the strength and direction of the relationship between two continuous variables. 
+For example, it could be employed to assess the correlation between hours of study and exam scores among a group of students.
+
+Regression Analysis:
+
+Example: Regression analysis is used to model the relationship between a dependent variable and one or more independent variables. 
+For instance, it could be used to predict the sales of a product based on advertising expenditure, competitor prices, and other factors.
+
+Mann-Whitney U Test:
+
+Example: This non-parametric test compares the distributions of two independent samples to determine if they are drawn from the same population. 
+It could be used to assess whether there is a difference in the median scores of two groups when the assumptions of the t-test are not met.
+
+Kruskal-Wallis Test:
+
+Example: Similar to the Mann-Whitney U test, the Kruskal-Wallis test is a non-parametric alternative to ANOVA and compares the distributions of three or more independent samples. 
+For example, it could be used to compare the median scores of three different teaching methods.
+
+Wilcoxon Signed-Rank Test:
+
+Example: This non-parametric test compares paired samples to determine if their population means ranks differ. 
+It could be used to evaluate whether there is a significant difference in pre- and post-test scores for individuals who underwent a training program.
