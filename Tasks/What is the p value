@@ -1,0 +1,8 @@
+In statistics, 
+a p-value is a number that indicates how likely you are to obtain a value that is at least equal to or more than the actual observation if the null hypothesis is correct.
+
+A p-value is a statistical measurement used to validate a hypothesis against observed data.
+A p-value measures the probability of obtaining the observed results, assuming that the null hypothesis is true.
+The lower the p-value, the greater the statistical significance of the observed difference.
+A p-value of 0.05 or lower is generally considered statistically significant.
+P-value can serve as an alternative to—or in addition to—preselected confidence levels for hypothesis testing.
