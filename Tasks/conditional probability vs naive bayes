@@ -1,0 +1,10 @@
+Conditional probability is the likelihood of an outcome occurring, based on a previous outcome having occurred in similar circumstances.
+Bayes' theorem provides a way to revise existing predictions or theories (update probabilities) given new or additional evidence.
+
+What does Naive Bayes mean?
+Naive Bayes algorithm (NB) is Bayesian graphical model that has nodes corresponding to each of the columns or features. It is called naive because, it ignores prior distribution of parameters and assume independence of all features and all rows. 
+Ignoring prior has both an advantage and disadvantage.
+
+Conditional probability is known as the possibility of an event or outcome happening, based on the existence of a previous event or outcome. 
+It is calculated by multiplying the probability of the preceding event by the renewed probability of the succeeding, or conditional, event.
+  
