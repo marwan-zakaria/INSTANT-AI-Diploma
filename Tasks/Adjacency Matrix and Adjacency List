@@ -1,0 +1,6 @@
+Adjacency Matrix:
+It is the 2D matrix that is used to map the association between the graph nodes. 
+If a graph has n number of vertices, then the adjacency matrix of that graph is n x n, and each entry of the matrix represents the number of edges from one vertex to another.
+
+Adjacency List:
+An adjacency list is a data structure used to represent a graph where each node in the graph stores a list of its neighboring vertices.
